@@ -60,7 +60,7 @@ export const HeroSection = () => {
 
       {/* Top row: quiet date stamp */}
       <div className="hero-mono flex items-center justify-between px-6 pt-5 text-[11px] uppercase tracking-[0.25em] text-[#8A8A80] sm:px-14 sm:pt-8 z-20">
-        <span>Aug 5</span>
+        <span>nov21</span>
       </div>
 
       {/* Headline & content — film trail positioned between headline and text on mobile */}
@@ -70,7 +70,7 @@ export const HeroSection = () => {
           <br />
           <span className="font-bold">Birthday</span>
           <br/>
-          <span className="font-bold mt-1 mb-2 text-amber-500">Sweety</span>
+          <span className="font-bold mt-1 mb-2 text-amber-500">khushi</span>
         </h1>
 
         {/* Mobile film trail — continuous film strip with zero space between pics and clear separation from headline */}
